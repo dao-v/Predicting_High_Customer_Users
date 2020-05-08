@@ -11,4 +11,4 @@ Required Files Before Running:
 - takehome_users.csv
 - takehome_user_engagement.csv
 
-These must be in the same folder as this script to run correctly. Else, change the filepath in the next cell to direct to these files.
+These must be in the same folder as this script to run correctly. Else, change the filepaths to direct to these files.
