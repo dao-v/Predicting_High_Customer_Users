@@ -1,4 +1,4 @@
-# Predicting_High_Customer_Users
+# Predicting_High_Usage_Customers
 The purpose of this script is to predict if a user will be a 'adopted user' of a software program developed by Relax Inc., who "makes productivity and project management software that's popular with both individuals and teams".
 
 Adopted User = "a user who has logged into the product on three separate days in at least one sevenday period"
